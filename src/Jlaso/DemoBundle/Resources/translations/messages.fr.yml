@@ -1,0 +1,7 @@
+root:
+    node1:
+        example: 'This is one example for first root node'
+    node2:
+        example: t1
+    node3:
+        example: 'And this is the last example for the third root node'

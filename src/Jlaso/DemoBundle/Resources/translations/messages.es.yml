@@ -1,0 +1,9 @@
+root:
+    node1:
+        example: 'Este es el ejemplo para el nodo 1 de la clave principal'
+    node2:
+        example: 'Este es el ejemplo para el segundo nodo de la clave principal'
+    node3:
+        example: 'Este es el ejemplo para el último nodo de la clave principal'
+button:
+    goto_form_demo: 'Ir a la demo del formulario'

@@ -1,0 +1,10 @@
+form_demo:
+    resource: "@FormDemoBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+demo:
+    resource: "@DemoBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

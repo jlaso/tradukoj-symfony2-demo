@@ -1,0 +1,172 @@
+ ✔ jl ⮀ ⭠ master± ⮀ ~/php_projects/mios/book-2/translations.demo.dev ⮀
+❯ app/console jlaso:translations:sync                                                                                                                            [8:28:38]
+*** Syncing bundles translation files ***
+Bundle DemoBundle . . .
+3 keys in remote
+Bundle DemoBundle . . .
+3 keys in remote
+there are 3 keys through getKeys
+Processing "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.es.yml", found 3 translations
+|-- key DemoBundle:root.node1.example/es ... = match
+|-- key DemoBundle:root.node2.example/es ... = match
+|-- key DemoBundle:root.node3.example/es ... = match
+number of items in remoteKeys is 0
+saving file /Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.es.yml
+there are 3 keys through getKeys
+Processing "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.en.yml", found 3 translations
+|-- key DemoBundle:root.node1.example/en ... = match
+|-- key DemoBundle:root.node2.example/en ... = match
+|-- key DemoBundle:root.node3.example/en ... = match
+number of items in remoteKeys is 0
+saving file /Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.en.yml
+there are 3 keys through getKeys
+Processing "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.fr.yml", found 3 translations
+|-- key DemoBundle:root.node1.example/fr ... = match
+|-- key DemoBundle:root.node2.example/fr ... = match
+|-- key DemoBundle:root.node3.example/fr ... = match
+number of items in remoteKeys is 0
+saving file /Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.fr.yml
+there are 3 keys through getKeys
+Processing "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.ca.yml", found 3 translations
+|-- key DemoBundle:root.node1.example/ca ... = match
+|-- key DemoBundle:root.node2.example/ca ... = match
+|-- key DemoBundle:root.node3.example/ca ... = match
+number of items in remoteKeys is 0
+saving file /Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.ca.yml
+there are 3 keys through getKeys
+Processing "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.dz.yml", found 3 translations
+|-- key DemoBundle:root.node1.example/dz ... = match
+|-- key DemoBundle:root.node2.example/dz ... = match
+|-- key DemoBundle:root.node3.example/dz ... = match
+number of items in remoteKeys is 0
+saving file /Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.dz.yml
+there are 3 keys through getKeys
+Processing "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.comments.yml", found 3 translations
+|-- key DemoBundle:root.node1.example/comments ... = match
+|-- key DemoBundle:root.node2.example/comments ... = match
+|-- key DemoBundle:root.node3.example/comments ... = match
+number of items in remoteKeys is 0
+saving file /Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.comments.yml
+there are 3 keys through getKeys
+Processing "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.es.yml", found 3 translations
+|-- key DemoBundle:root.node1.example/es ... -> updated
+|-- key DemoBundle:root.node2.example/es ... -> updated
+|-- key DemoBundle:root.node3.example/es ... -> updated
+number of items in remoteKeys is 0
+there are 3 keys through getKeys
+Processing "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.en.yml", found 3 translations
+|-- key DemoBundle:root.node1.example/en ... -> updated
+|-- key DemoBundle:root.node2.example/en ... -> updated
+|-- key DemoBundle:root.node3.example/en ... -> updated
+number of items in remoteKeys is 0
+there are 3 keys through getKeys
+Processing "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.fr.yml", found 3 translations
+|-- key DemoBundle:root.node1.example/fr ... -> updated
+|-- key DemoBundle:root.node2.example/fr ... -> updated
+|-- key DemoBundle:root.node3.example/fr ... -> updated
+number of items in remoteKeys is 0
+there are 3 keys through getKeys
+Processing "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.ca.yml", found 3 translations
+|-- key DemoBundle:root.node1.example/ca ... -> updated
+|-- key DemoBundle:root.node2.example/ca ... -> updated
+|-- key DemoBundle:root.node3.example/ca ... -> updated
+number of items in remoteKeys is 0
+there are 3 keys through getKeys
+Processing "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.dz.yml", found 3 translations
+|-- key DemoBundle:root.node1.example/dz ... -> updated
+|-- key DemoBundle:root.node2.example/dz ... -> updated
+|-- key DemoBundle:root.node3.example/dz ... -> updated
+number of items in remoteKeys is 0
+there are 3 keys through getKeys
+Processing "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/Jlaso/DemoBundle/Resources/translations/messages.comments.yml", found 3 translations
+|-- key DemoBundle:root.node1.example/comments ... -> updated
+|-- key DemoBundle:root.node2.example/comments ... -> updated
+|-- key DemoBundle:root.node3.example/comments ... -> updated
+number of items in remoteKeys is 0
+there are 0 keys through getKeys
+File "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/../app/Resources/translations/messages.es.yml" not found
+number of items in remoteKeys is 0
+there are 0 keys through getKeys
+File "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/../app/Resources/translations/messages.en.yml" not found
+number of items in remoteKeys is 0
+there are 0 keys through getKeys
+File "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/../app/Resources/translations/messages.fr.yml" not found
+number of items in remoteKeys is 0
+there are 0 keys through getKeys
+File "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/../app/Resources/translations/messages.ca.yml" not found
+number of items in remoteKeys is 0
+there are 0 keys through getKeys
+File "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/../app/Resources/translations/messages.dz.yml" not found
+number of items in remoteKeys is 0
+there are 0 keys through getKeys
+File "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/../app/Resources/translations/messages.comments.yml" not found
+number of items in remoteKeys is 0
+ ✔ jl ⮀ ⭠ master± ⮀ ~/php_projects/mios/book-2/translations.demo.dev ⮀
+❯ app/console generate:bundle                                                                                                                                    [8:29:46]
+
+
+  Welcome to the Symfony2 bundle generator
+
+
+
+Your application code must be written in bundles. This command helps
+you generate them easily.
+
+Each bundle is hosted under a namespace (like Acme/Bundle/BlogBundle).
+The namespace should begin with a "vendor" name like your company name, your
+project name, or your client name, followed by one or more optional category
+sub-namespaces, and it should end with the bundle name itself
+(which must have Bundle as a suffix).
+
+See http://symfony.com/doc/current/cookbook/bundles/best_practices.html#index-1 for more
+details on bundle naming conventions.
+
+Use / instead of \  for the namespace delimiter to avoid any problem.
+
+Bundle namespace: Jlaso/FormDemoBundle
+
+In your code, a bundle is often referenced by its name. It can be the
+concatenation of all namespace parts but it's really up to you to come
+up with a unique name (a good practice is to start with the vendor name).
+Based on the namespace, we suggest JlasoFormDemoBundle.
+
+Bundle name [JlasoFormDemoBundle]: FormDemoBundle
+
+The bundle can be generated anywhere. The suggested default directory uses
+the standard conventions.
+
+Target directory [/Users/jl/php_projects/mios/book-2/translations.demo.dev/src]:
+
+Determine the format to use for the generated configuration.
+
+Configuration format (yml, xml, php, or annotation): annotation
+
+To help you get started faster, the command can generate some
+code snippets for you.
+
+Do you want to generate the whole directory structure [no]? yes
+
+
+  Summary before generation
+
+
+You are going to generate a "Jlaso\FormDemoBundle\FormDemoBundle" bundle
+in "/Users/jl/php_projects/mios/book-2/translations.demo.dev/src/" using the "annotation" format.
+
+Do you confirm generation [yes]?
+
+
+  Bundle generation
+
+
+Generating the bundle code: OK
+Checking that the bundle is autoloaded: OK
+Confirm automatic update of your Kernel [yes]?
+Enabling the bundle inside the Kernel: OK
+Confirm automatic update of the Routing [yes]?
+Importing the bundle routing resource: OK
+
+
+  You can now start using the generated code!
+
+

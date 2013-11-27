@@ -1,0 +1,14 @@
+general:
+    goto_home: 'Volver a la página de inicio'
+    title: 'Demo de formulario con translations'
+registration:
+    placeholder:
+        email: 'correo electrónico'
+        name: Nombre
+        lastname: Apellido
+        country: Pais
+        street: Dirección
+        phone: Teléfono
+        zip: 'Código postal'
+    button:
+        save: Registrar

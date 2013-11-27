@@ -1,0 +1,65 @@
+{% extends '::base.html.twig' %}
+
+{% block stylesheets %}
+    <style>
+        body{
+            background-image: url("{{ asset('logo-translations-emboss.png') }}");
+            background-repeat: repeat-x repeat-y;
+            background-color:rgba(127,127,127,0.5);
+        }
+        ul.language_selector li.active{
+            font-weight: bold;
+            background: #111;
+            color: #eee;
+        }
+        ul.language_selector li{
+            width: 60px;
+            display: inline;
+            list-style: none;
+            background: #ccc;
+            padding: 5px;
+            margin-left: 1px;
+            border-radius: 2px;
+            border: 1px solid #333;
+            text-align: center;
+        }
+        ul.language_selector a{
+            text-decoration: none;
+            color: inherit;
+        }
+    </style>
+{% endblock stylesheets %}
+
+{% block body %}
+
+    <div style="text-align: center">
+
+        <h1>
+            <img src="{{ asset('logo-translations-demo.png') }}" height="60" alt=""/>
+            Demo translations
+        </h1>
+
+        <ul class="language_selector">
+            {% for lang in languages %}
+            <li {{ lang == language ? 'class="active"' : '' }}>
+                <a href="{{ url('home', {'_locale': lang}) }}">
+                    {{ lang }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+
+    <ul>
+        <li>{{ "root.node1.example"|trans|raw }}</li>
+        <li>{{ "root.node2.example"|trans|raw }}</li>
+        <li>{{ "root.node3.example"|trans|raw }}</li>
+    </ul>
+
+        <a href="{{ url("demo_form", {"_locale": language}) }}">
+            <input type="button" value="{{ "button.goto_form_demo"|trans|raw }}"/>
+        </a>
+
+    </div>
+
+
+{% endblock body %}

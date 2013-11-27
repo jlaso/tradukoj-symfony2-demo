@@ -1,0 +1,7 @@
+root:
+    node1:
+        example: 'هذا مثال واحد لعقدة الجذر الأول'
+    node2:
+        example: 'This is another example for the second root node'
+    node3:
+        example: 'And this is the last example for the third root node'
