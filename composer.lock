@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "44c9450a93781d47dcc293f49d66d9d0",
+    "hash": "b18737001607f82aa07468f189c08477",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -721,8 +721,8 @@
             "target-dir": "JLaso/TranslationsApiBundle",
             "source": {
                 "type": "git",
-                "url": "/private/var/git/jlaso/translations-apibundle.git",
-                "reference": "f689db53f99133c1ed0cc0b197da0916d1105a49"
+                "url": "git@bitbucket.org:jlaso/translations-apibundle.git",
+                "reference": "aa3b0f32257665d3bb82a2822695632f123eacd3"
             },
             "require": {
                 "php": ">=5.3.0"
@@ -749,7 +749,7 @@
                 "api",
                 "translations"
             ],
-            "time": "2013-09-11 21:47:48"
+            "time": "2013-11-27 10:32:44"
         },
         {
             "name": "kriswallsmith/assetic",
