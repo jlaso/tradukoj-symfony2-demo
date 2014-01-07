@@ -8,7 +8,7 @@
     },
     "repositories": [{
         "type": "vcs",
-        "url": "git@bitbucket.org:jlaso/translations-apibundle.git"
+        "url": "https://jlaso@bitbucket.org/jlaso/translations-apibundle.git"
     }
     ],
     "require": {
