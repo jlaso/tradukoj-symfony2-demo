@@ -39,6 +39,10 @@
             {{ "general.title"|trans|raw }}
         </h1>
 
+        <h2 style="color:red;">
+            prueba = {{ "prueba"|trans|raw }}
+        </h2>
+
         <ul class="language_selector">
             {% for lang in languages %}
                 <li {{ lang == language ? 'class="active"' : '' }}>
