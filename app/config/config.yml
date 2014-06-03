@@ -67,4 +67,4 @@ swiftmailer:
 
 translations_api:
     default_locale: %locale%
-    managed_locales: ['es', 'en', 'fr', 'ca', 'dz']  # the languages you want
+    managed_locales: ['es', 'en', 'fr', 'ca', 'ar']  # the languages you want

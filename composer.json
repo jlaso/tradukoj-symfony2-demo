@@ -6,11 +6,6 @@
     "autoload": {
         "psr-0": { "": "src/" }
     },
-    "repositories": [{
-        "type": "vcs",
-        "url": "https://jlaso@bitbucket.org/jlaso/translations-apibundle.git"
-    }
-    ],
     "require": {
         "php": ">=5.3.3",
         "symfony/symfony": "2.3.*",

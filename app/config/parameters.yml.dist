@@ -14,11 +14,11 @@ parameters:
     locale:            en
     secret:            ThisTokenIsNotSoSecretChangeIt
 
-    ###############################
-    ##   TRANSLATIONS API REST   ##
-    ###############################
+    #################################
+    ##   TRANSLATIONS API ACCESS   ##
+    #################################
     jlaso_translations_api_access:
-        project_id: 1 # the number that correspond to the project created
-        key:  1234  # the key that systems assigns
-        secret: 1234  # the password that you choose when init project in server
+        project_id: ? # the number that correspond to the project created
+        key:  ?  # the key that systems assigns
+        secret: ?  # the password that you choose when init project in server
         url: http://translations.com.es/api/
