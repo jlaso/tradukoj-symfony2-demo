@@ -21,4 +21,4 @@ parameters:
         project_id: ? # the number that correspond to the project created
         key:  ?  # the key that systems assigns
         secret: ?  # the password that you choose when init project in server
-        url: http://translations.com.es/api/
+        url: "https://www.tradukoj.com/api/"
